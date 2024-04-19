@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900&display=swap');
-p {
+p, h1, h2, h3, a {
+  font-family: 'Noto Serif Bengali';
+}
+body {
   font-family: 'Noto Serif Bengali';
 }
 hr {
