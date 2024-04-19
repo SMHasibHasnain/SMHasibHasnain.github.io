@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+এই ওয়েবসাইটটি তৈরী করা হয়েছে প্রোগ্রামিং সম্পর্কিত বিভিন্ন আর্টিকেল লেখার জন্য।
