@@ -1,10 +1,10 @@
 @import url('//fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@100..900');
 @import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Noto+Serif+Bengali:wght@100..900&display=swap')
 body {
-  font-family: 'Hind Siliguri';
+  font-family: "Hind Siliguri";
 }
 p, h1, h2, h3, a {
-  font-family: 'Hind Siliguri';
+  font-family: "Hind Siliguri";
 }
 hr {
   margin-top: 30px;
