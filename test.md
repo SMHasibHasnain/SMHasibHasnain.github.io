@@ -34,9 +34,9 @@ I'm pursuing my bachelor's in Software Engineering at [Daffodil International Un
 </p>
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=atikurajib&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=smhasibhasnain&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikurajib&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smhasibhasnain&layout=compact&theme=radical)
 
 ### 🚀 Projects
 - 🔥 [Bus Ticket Reservation System](https://github.com/atikurajib/bus-ticket-reservation-system )</br>Durnibar is a Bus Ticket Reservation System and this system is developed in C programming language. Implementing this Bus Ticket Reservation System aims to streamline the ticketing process, enhance customer satisfaction, and optimize operational efficiency for the transportation company. It will provide a seamless booking experience for travelers while facilitating effective management for administrators.
